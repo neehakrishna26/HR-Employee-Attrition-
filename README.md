@@ -127,7 +127,7 @@ During my internship period, I actively participated in multiple community-orien
 
 <div align="center">
 <img src="https://github.com/neehakrishna26/HR-Employee-Attrition-/blob/main/plant%203.jpeg" alt="Community Service Photo 1" width="30%">
-<img src="https://github.com/neehakrishna26/HR-Employee-Attrition-/blob/main/service%201.jpeg alt="Community Service Photo 2" width="30%">
+<img src="https://github.com/neehakrishna26/HR-Employee-Attrition-/blob/main/service%201.jpeg" alt="Community Service Photo 2" width="30%">
 <img src="https://github.com/neehakrishna26/HR-Employee-Attrition-/blob/main/service%202.jpeg" alt="Community Service Photo 3" width="30%">
 </div>
 
