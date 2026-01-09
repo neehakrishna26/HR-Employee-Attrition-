@@ -42,7 +42,7 @@
 
 <p><strong>Trainer Name:</strong> Mr. Sravan Nemana </p>
 <p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Designation:</strong> Lead Marketing Analytics Consultant </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
